@@ -1,3 +1,19 @@
+
+># PROYECTO README.MD
+>
+>**Proyecto ElectivaDisciplinar II -Backend**.
+>- Integrante:
+>   - Roberto Rodriguez @xRobertIng(<https://github.com/xRobertIng>)
+>   
+>   
+>
+>- Sprint 1:
+>   - Historia De Usuario EP001(<https://app.moqups.com/kkNgLa3R6omZ5HUpARQtevKWO3y7KXND/view/page/ac6d48818>)
+>   - Historia Tecnica EP002(<https://app.moqups.com/kkNgLa3R6omZ5HUpARQtevKWO3y7KXND/view/page/ad9b7324a>)
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -71,3 +87,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
